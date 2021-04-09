@@ -1,0 +1,23 @@
+{
+  "name": "strateneer01/mbw_oxtheme",
+  "description": "This is a Wave-Childtheme for mbw.",
+  "type": "oxideshop-theme",
+  "version": "1.0.0",
+  "keywords": [
+    "oxid",
+    "themes",
+    "mbw"
+  ],
+  "homepage": "https://strateneers.com",
+  "license": [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "minimum-stability": "dev",
+  "extra": {
+    "oxideshop": {
+      "target-directory": "mbw_oxtheme",
+      "assets-directory": "out/mbw_oxtheme"
+    }
+  }
+}
