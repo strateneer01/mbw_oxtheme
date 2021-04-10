@@ -13,7 +13,7 @@
     "GPL-3.0",
     "proprietary"
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "extra": {
     "oxideshop": {
       "target-directory": "mbw_oxtheme",
